@@ -1,2 +1,3 @@
 # octocatsup.github.io
-Personal GH web page
+
+This is simply my personal GitHub web page--nothing more or less.
